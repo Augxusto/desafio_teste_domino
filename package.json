@@ -1,0 +1,14 @@
+{
+  "name": "desafio_teste_domino",
+  "version": "1.0.0",
+  "description": "Casos de teste em JavaScript (Jest) para uma partida de Dominó para 2 jogadores",
+  "main": "src/domino.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
